@@ -1,0 +1,62 @@
+h1{
+    color:darkslategray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+h2{
+    color:darkblue;
+    text-decoration: underline;
+}
+
+body{
+    background-image: url(bg.png);
+    color: black;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tablazatfej{
+    color: whitesmoke;
+    background-color: rgb(63, 63, 63);
+}
+
+table, thead, tbody, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    text-align: center;
+}
+
+tr{
+    height: 40px;
+}
+
+.evszam{
+    color: rgb(46, 45, 45);
+    font-style: italic;
+}
+
+.felkover{
+    font-weight: bold;
+}
+
+.dolt{
+    font-style: italic;
+}
+
+.alahuzott{
+    text-decoration: underline;
+}
+
+.size70{
+    width: 70%;
+}
+
+.pic{
+    padding: 8px;
+    margin: 5px;
+    float: right;
+    width: 33%;
+}
